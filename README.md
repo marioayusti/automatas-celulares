@@ -8,8 +8,8 @@
 - Mayoría
 - Suma
 - Transito
-- Encriptar Imagen
-- Desencriptar Imagen
+- Cifrar/Descifrar imagen
+- Cifrar/Descifrar mensaje
 
 ### UI
 ![Vista Juego Inicial](docs/images/UI.png)
